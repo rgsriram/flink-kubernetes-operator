@@ -17,6 +17,7 @@ $ docker run -v $(pwd):/src -p 1313:1313 jakejarvis/hugo-extended:latest server 
 
 #### Local Hugo installation:
 
+
 Make sure you have installed [Hugo](https://gohugo.io/getting-started/installing/) on your system.
 
 ```sh
